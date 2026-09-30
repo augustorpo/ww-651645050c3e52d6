@@ -24,18 +24,6 @@
     "chapters": "ep01-pilot.json"
   },
   {
-    "slug": "ep02-behavioral-finance-part1",
-    "title": "Episode 2: Behavioral Finance & Investor Psychology (Part 1)",
-    "description": "Section 2: Behavioral Finance & Investor Psychology, Part 1. This section is 6% of the CPWA exam, within Human Dynamics (18%). This is the first episode in the new format: US-only material, a structured review of every learning objective, and one short domestic case.\n\nCovered: the biology of financial decisions (System 1 and System 2, amygdala, nucleus accumbens, insula, prefrontal cortex); expected value theory; expected utility, including normative, descriptive and prescriptive views, the shape of the utility curve, certainty equivalent and risk premium; Markowitz's mean-variance model and the efficient frontier; prospect theory (reference points, loss aversion, the S-shaped value function, probability weighting, the disposition effect); Andrew Lo's adaptive markets hypothesis; how the theories compare and how behavioral finance evolved; and cognitive biases, both belief-perseverance and information-processing, including anchoring and adjustment, availability, framing, outcome and recency.\n\nThe short case is The Case of the Miami Beach Pitch. It's followed by Teo's Pop Quiz (six exam-style questions) and a Lightning Recap with Doña Pilar.\n\nComing in Part 2: emotional biases, the four behavioral investor types, accommodate vs. educate, and generational differences.\n\nAll characters and firms are fictional.\n\nChapters:\n0:00 Cold Open\n0:32 Welcome and Today's Map\n1:44 Your Brain on Money\n3:44 Expected Value and Utility\n6:41 Markowitz and Mean-Variance\n8:16 Prospect Theory\n10:17 The Adaptive Markets Hypothesis\n11:40 Compare, Contrast, and the Timeline\n13:39 Cognitive Biases: Belief Perseverance\n15:11 Cognitive Biases: Information Processing\n17:21 Case: The Case of the Miami Beach Pitch\n18:53 Teo's Pop Quiz\n21:32 Lightning Recap (with Doña Pilar)\n23:06 Next Time",
-    "file": "ep02-behavioral-finance-part1.mp3",
-    "length": 22644014,
-    "duration": "00:23:35",
-    "pub_iso": "2026-09-30T10:57:52-04:00",
-    "guid": "wealth-whisperer-ep02-behavioral-finance-part1",
-    "episode": 2,
-    "chapters": "ep02-behavioral-finance-part1.json"
-  },
-  {
     "slug": "ep03-behavioral-finance-part2",
     "title": "Episode 3: Behavioral Finance, Part 2",
     "description": "Behavioral Finance, Part 2. Margo and Teo review the rest of the behavioral finance learning objectives for the CPWA exam: biases, investor behavior, and how an advisor coaches clients through them, with one short domestic case.\n\nChapters:\n0:00 Cold Open\n0:27 Welcome, Map, and Callback\n2:03 Emotional Biases: Loss, Confidence, and Control\n4:03 Emotional Biases: Inertia, Regret, and Affinity\n6:27 Accommodate or Educate?\n8:23 The Four Investor Types: Preserver and Follower\n10:29 The Four Investor Types: Independent and Accumulator\n13:06 Generations, Earned and Inherited Wealth\n16:24 Exam Traps\n17:26 Case: The Case of the Two Portfolios\n18:35 Teo's Pop Quiz\n21:06 Lightning Recap (with Doña Pilar)\n22:44 Next Time",
@@ -46,5 +34,17 @@
     "guid": "wealth-whisperer-ep03-behavioral-finance-part2",
     "episode": 3,
     "chapters": "ep03-behavioral-finance-part2.json"
+  },
+  {
+    "slug": "ep02-behavioral-finance-part1",
+    "title": "Episode 2: Behavioral Finance & Investor Psychology (Part 1)",
+    "description": "Section 2: Behavioral Finance & Investor Psychology, Part 1 (slow edition, made for listening while driving). This section is 6% of the CPWA exam, within Human Dynamics (18%). Same learning objectives as before, at a calmer pace: short sentences, every term defined the first time it comes up, lists announced with a count and repeated at the end, pauses after key points, three mini recaps and four quiz breaks.\n\nCovered: why behavioral finance exists; System 1 and System 2; the four brain structures (memory trick: Alarm, Reward, Ouch, Boss); expected value; utility, the four expected-utility axioms and the three curve shapes; normative, descriptive and prescriptive theory (Should, Does, Helps); Markowitz's mean-variance model (assumptions and weaknesses); prospect theory's four features (Really Losing Doesn't Pay); Andrew Lo's adaptive markets hypothesis (four things change, two things matter); the five theories compared and how the field evolved; and the 13 cognitive biases in two families: belief perseverance (three C's, then \"Really, I'm Human\") and information processing (A Mad Fox Ate Some Old Raisins), plus the four pairs the exam likes to contrast.\n\nShort case: The Miami Beach Pitch. Ends with the exam must-knows, read over tea with Doña Pilar. A one-page cheat sheet goes with this episode.\n\nAll characters and firms are fictional.\n\nChapters:\n0:00 Cold Open\n0:44 Welcome and Three Things You'll Learn\n2:12 Why Behavioral Finance Exists\n4:15 Your Brain on Money\n7:21 Expected Value\n9:24 Utility: What the Money Is Worth to You\n13:46 Should, Does, Helps\n15:25 Mini Recap One\n16:21 Quiz Break One\n17:12 Markowitz and the Mean-Variance Model\n20:34 Prospect Theory\n24:34 Mini Recap Two\n25:13 Quiz Break Two\n26:13 The Adaptive Markets Hypothesis\n29:24 Compare the Theories\n31:20 How the Field Evolved\n33:34 Cognitive Biases: The Big Split\n34:46 Family One: Belief Perseverance\n37:35 Family Two: Information Processing\n40:37 The Exam's Favorite Pairs\n42:19 Mini Recap Three\n43:06 Case: The Miami Beach Pitch\n44:48 Quiz Break Three\n45:26 Quiz Break Four\n46:04 Exam Must-Knows (with Doña Pilar)\n48:14 Next Time",
+    "file": "ep02-behavioral-finance-part1-v2.mp3",
+    "length": 46975105,
+    "duration": "00:48:56",
+    "pub_iso": "2026-09-30T10:57:52-04:00",
+    "guid": "wealth-whisperer-ep02-behavioral-finance-part1",
+    "episode": 2,
+    "chapters": "ep02-behavioral-finance-part1.json"
   }
 ]
