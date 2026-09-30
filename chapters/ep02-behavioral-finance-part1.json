@@ -1,0 +1,61 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.27,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 32.31,
+      "title": "Welcome and Today's Map"
+    },
+    {
+      "startTime": 104.27,
+      "title": "Your Brain on Money"
+    },
+    {
+      "startTime": 224.45,
+      "title": "Expected Value and Utility"
+    },
+    {
+      "startTime": 401.23,
+      "title": "Markowitz and Mean-Variance"
+    },
+    {
+      "startTime": 496.54,
+      "title": "Prospect Theory"
+    },
+    {
+      "startTime": 617.95,
+      "title": "The Adaptive Markets Hypothesis"
+    },
+    {
+      "startTime": 700.25,
+      "title": "Compare, Contrast, and the Timeline"
+    },
+    {
+      "startTime": 819.95,
+      "title": "Cognitive Biases: Belief Perseverance"
+    },
+    {
+      "startTime": 911.66,
+      "title": "Cognitive Biases: Information Processing"
+    },
+    {
+      "startTime": 1041.39,
+      "title": "Case: The Case of the Miami Beach Pitch"
+    },
+    {
+      "startTime": 1133.12,
+      "title": "Teo's Pop Quiz"
+    },
+    {
+      "startTime": 1292.12,
+      "title": "Lightning Recap (with Doña Pilar)"
+    },
+    {
+      "startTime": 1386.16,
+      "title": "Next Time"
+    }
+  ]
+}

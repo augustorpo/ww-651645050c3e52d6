@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:50:27 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:57:52 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -19,6 +19,70 @@
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 2: Behavioral Finance &amp; Investor Psychology (Part 1)</title>
+      <itunes:title>Episode 2: Behavioral Finance &amp; Investor Psychology (Part 1)</itunes:title>
+      <description>Section 2: Behavioral Finance &amp; Investor Psychology, Part 1. This section is 6% of the CPWA exam, within Human Dynamics (18%). This is the first episode in the new format: US-only material, a structured review of every learning objective, and one short domestic case.
+
+Covered: the biology of financial decisions (System 1 and System 2, amygdala, nucleus accumbens, insula, prefrontal cortex); expected value theory; expected utility, including normative, descriptive and prescriptive views, the shape of the utility curve, certainty equivalent and risk premium; Markowitz's mean-variance model and the efficient frontier; prospect theory (reference points, loss aversion, the S-shaped value function, probability weighting, the disposition effect); Andrew Lo's adaptive markets hypothesis; how the theories compare and how behavioral finance evolved; and cognitive biases, both belief-perseverance and information-processing, including anchoring and adjustment, availability, framing, outcome and recency.
+
+The short case is The Case of the Miami Beach Pitch. It's followed by Teo's Pop Quiz (six exam-style questions) and a Lightning Recap with Doña Pilar.
+
+Coming in Part 2: emotional biases, the four behavioral investor types, accommodate vs. educate, and generational differences.
+
+All characters and firms are fictional.
+
+Chapters:
+0:00 Cold Open
+0:32 Welcome and Today's Map
+1:44 Your Brain on Money
+3:44 Expected Value and Utility
+6:41 Markowitz and Mean-Variance
+8:16 Prospect Theory
+10:17 The Adaptive Markets Hypothesis
+11:40 Compare, Contrast, and the Timeline
+13:39 Cognitive Biases: Belief Perseverance
+15:11 Cognitive Biases: Information Processing
+17:21 Case: The Case of the Miami Beach Pitch
+18:53 Teo's Pop Quiz
+21:32 Lightning Recap (with Doña Pilar)
+23:06 Next Time</description>
+      <itunes:summary>Section 2: Behavioral Finance &amp; Investor Psychology, Part 1. This section is 6% of the CPWA exam, within Human Dynamics (18%). This is the first episode in the new format: US-only material, a structured review of every learning objective, and one short domestic case.
+
+Covered: the biology of financial decisions (System 1 and System 2, amygdala, nucleus accumbens, insula, prefrontal cortex); expected value theory; expected utility, including normative, descriptive and prescriptive views, the shape of the utility curve, certainty equivalent and risk premium; Markowitz's mean-variance model and the efficient frontier; prospect theory (reference points, loss aversion, the S-shaped value function, probability weighting, the disposition effect); Andrew Lo's adaptive markets hypothesis; how the theories compare and how behavioral finance evolved; and cognitive biases, both belief-perseverance and information-processing, including anchoring and adjustment, availability, framing, outcome and recency.
+
+The short case is The Case of the Miami Beach Pitch. It's followed by Teo's Pop Quiz (six exam-style questions) and a Lightning Recap with Doña Pilar.
+
+Coming in Part 2: emotional biases, the four behavioral investor types, accommodate vs. educate, and generational differences.
+
+All characters and firms are fictional.
+
+Chapters:
+0:00 Cold Open
+0:32 Welcome and Today's Map
+1:44 Your Brain on Money
+3:44 Expected Value and Utility
+6:41 Markowitz and Mean-Variance
+8:16 Prospect Theory
+10:17 The Adaptive Markets Hypothesis
+11:40 Compare, Contrast, and the Timeline
+13:39 Cognitive Biases: Belief Perseverance
+15:11 Cognitive Biases: Information Processing
+17:21 Case: The Case of the Miami Beach Pitch
+18:53 Teo's Pop Quiz
+21:32 Lightning Recap (with Doña Pilar)
+23:06 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep02-behavioral-finance-part1.mp3" length="22644014" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep02-behavioral-finance-part1</guid>
+      <pubDate>Wed, 30 Sep 2026 10:57:52 -0400</pubDate>
+      <itunes:duration>00:23:35</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep02-behavioral-finance-part1.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Episode 1: Ethics (The Pilot)</title>
       <itunes:title>Episode 1: Ethics (The Pilot)</itunes:title>

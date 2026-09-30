@@ -22,5 +22,17 @@
     "guid": "wealth-whisperer-ep01-pilot",
     "episode": 1,
     "chapters": "ep01-pilot.json"
+  },
+  {
+    "slug": "ep02-behavioral-finance-part1",
+    "title": "Episode 2: Behavioral Finance & Investor Psychology (Part 1)",
+    "description": "Section 2: Behavioral Finance & Investor Psychology, Part 1. This section is 6% of the CPWA exam, within Human Dynamics (18%). This is the first episode in the new format: US-only material, a structured review of every learning objective, and one short domestic case.\n\nCovered: the biology of financial decisions (System 1 and System 2, amygdala, nucleus accumbens, insula, prefrontal cortex); expected value theory; expected utility, including normative, descriptive and prescriptive views, the shape of the utility curve, certainty equivalent and risk premium; Markowitz's mean-variance model and the efficient frontier; prospect theory (reference points, loss aversion, the S-shaped value function, probability weighting, the disposition effect); Andrew Lo's adaptive markets hypothesis; how the theories compare and how behavioral finance evolved; and cognitive biases, both belief-perseverance and information-processing, including anchoring and adjustment, availability, framing, outcome and recency.\n\nThe short case is The Case of the Miami Beach Pitch. It's followed by Teo's Pop Quiz (six exam-style questions) and a Lightning Recap with Doña Pilar.\n\nComing in Part 2: emotional biases, the four behavioral investor types, accommodate vs. educate, and generational differences.\n\nAll characters and firms are fictional.\n\nChapters:\n0:00 Cold Open\n0:32 Welcome and Today's Map\n1:44 Your Brain on Money\n3:44 Expected Value and Utility\n6:41 Markowitz and Mean-Variance\n8:16 Prospect Theory\n10:17 The Adaptive Markets Hypothesis\n11:40 Compare, Contrast, and the Timeline\n13:39 Cognitive Biases: Belief Perseverance\n15:11 Cognitive Biases: Information Processing\n17:21 Case: The Case of the Miami Beach Pitch\n18:53 Teo's Pop Quiz\n21:32 Lightning Recap (with Doña Pilar)\n23:06 Next Time",
+    "file": "ep02-behavioral-finance-part1.mp3",
+    "length": 22644014,
+    "duration": "00:23:35",
+    "pub_iso": "2026-09-30T10:57:52-04:00",
+    "guid": "wealth-whisperer-ep02-behavioral-finance-part1",
+    "episode": 2,
+    "chapters": "ep02-behavioral-finance-part1.json"
   }
 ]
