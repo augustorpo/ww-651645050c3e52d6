@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 10:57:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:47:06 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -19,6 +19,52 @@
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 3: Behavioral Finance, Part 2</title>
+      <itunes:title>Episode 3: Behavioral Finance, Part 2</itunes:title>
+      <description>Behavioral Finance, Part 2. Margo and Teo review the rest of the behavioral finance learning objectives for the CPWA exam: biases, investor behavior, and how an advisor coaches clients through them, with one short domestic case.
+
+Chapters:
+0:00 Cold Open
+0:27 Welcome, Map, and Callback
+2:03 Emotional Biases: Loss, Confidence, and Control
+4:03 Emotional Biases: Inertia, Regret, and Affinity
+6:27 Accommodate or Educate?
+8:23 The Four Investor Types: Preserver and Follower
+10:29 The Four Investor Types: Independent and Accumulator
+13:06 Generations, Earned and Inherited Wealth
+16:24 Exam Traps
+17:26 Case: The Case of the Two Portfolios
+18:35 Teo's Pop Quiz
+21:06 Lightning Recap (with Doña Pilar)
+22:44 Next Time</description>
+      <itunes:summary>Behavioral Finance, Part 2. Margo and Teo review the rest of the behavioral finance learning objectives for the CPWA exam: biases, investor behavior, and how an advisor coaches clients through them, with one short domestic case.
+
+Chapters:
+0:00 Cold Open
+0:27 Welcome, Map, and Callback
+2:03 Emotional Biases: Loss, Confidence, and Control
+4:03 Emotional Biases: Inertia, Regret, and Affinity
+6:27 Accommodate or Educate?
+8:23 The Four Investor Types: Preserver and Follower
+10:29 The Four Investor Types: Independent and Accumulator
+13:06 Generations, Earned and Inherited Wealth
+16:24 Exam Traps
+17:26 Case: The Case of the Two Portfolios
+18:35 Teo's Pop Quiz
+21:06 Lightning Recap (with Doña Pilar)
+22:44 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep03-behavioral-finance-part2.mp3" length="22341412" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep03-behavioral-finance-part2</guid>
+      <pubDate>Wed, 30 Sep 2026 16:47:06 -0400</pubDate>
+      <itunes:duration>00:23:16</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep03-behavioral-finance-part2.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Episode 2: Behavioral Finance &amp; Investor Psychology (Part 1)</title>
       <itunes:title>Episode 2: Behavioral Finance &amp; Investor Psychology (Part 1)</itunes:title>
