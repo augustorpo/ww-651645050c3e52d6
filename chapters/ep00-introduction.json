@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 5.53,
+      "title": "Welcome"
+    },
+    {
+      "startTime": 81.85,
+      "title": "How the Show Works"
+    },
+    {
+      "startTime": 156.5,
+      "title": "Meet the Cast"
+    },
+    {
+      "startTime": 366.49,
+      "title": "Notes and Double-Clicks"
+    },
+    {
+      "startTime": 392.24,
+      "title": "Coming Up: The Pilot"
+    }
+  ]
+}

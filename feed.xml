@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>The Wealth Whisperer: A CPWA Casebook</title>
+    <link>https://augustorpo.github.io/ww-651645050c3e52d6/</link>
+    <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2026 20:50:27 -0400</lastBuildDate>
+    <itunes:author>The Wealth Whisperer</itunes:author>
+    <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
+    <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
+    <itunes:owner><itunes:name>The Wealth Whisperer</itunes:name></itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+    <image><url>https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg</url><title>The Wealth Whisperer: A CPWA Casebook</title><link>https://augustorpo.github.io/ww-651645050c3e52d6/</link></image>
+    <itunes:category text="Education"><itunes:category text="Courses"/></itunes:category>
+    <itunes:block>Yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
+    <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 0: Introduction &amp; Meet the Cast</title>
+      <itunes:title>Episode 0: Introduction &amp; Meet the Cast</itunes:title>
+      <description>Welcome to the Casebook, Fabi. Meet your host Margo (a senior wealth strategist, CPWA and part-time detective) and Teo (a junior associate, quiz master and proud owner of a buzzer), and find out how every episode works: Cold Open, the Huddle, the Case Room, the Real-World File, Teo's Pop Quiz, Fabi's Call and the Lightning Recap. The whole thing fits your commute.
+
+Then meet the recurring cast you'll follow through the course: Don Octavio Salcedo and his box of home videos ("the Octavio Archive"), the widow Valentina, the young heiress Sofía, Rodrigo the in-law with a crypto hotel in Tulum, the family lawyer Dr. Villalba, the Castañedas of Guatemala City, the Montalvos of Lima, Preston Hale the private banker, Kendra from Growth, and Doña Pilar, who will ask the same question five times (on purpose).
+
+All characters, families, firms and banks are fictional.
+
+Chapters:
+0:05 Welcome
+1:21 How the Show Works
+2:36 Meet the Cast
+6:06 Notes and Double-Clicks
+6:32 Coming Up: The Pilot</description>
+      <itunes:summary>Welcome to the Casebook, Fabi. Meet your host Margo (a senior wealth strategist, CPWA and part-time detective) and Teo (a junior associate, quiz master and proud owner of a buzzer), and find out how every episode works: Cold Open, the Huddle, the Case Room, the Real-World File, Teo's Pop Quiz, Fabi's Call and the Lightning Recap. The whole thing fits your commute.
+
+Then meet the recurring cast you'll follow through the course: Don Octavio Salcedo and his box of home videos ("the Octavio Archive"), the widow Valentina, the young heiress Sofía, Rodrigo the in-law with a crypto hotel in Tulum, the family lawyer Dr. Villalba, the Castañedas of Guatemala City, the Montalvos of Lima, Preston Hale the private banker, Kendra from Growth, and Doña Pilar, who will ask the same question five times (on purpose).
+
+All characters, families, firms and banks are fictional.
+
+Chapters:
+0:05 Welcome
+1:21 How the Show Works
+2:36 Meet the Cast
+6:06 Notes and Double-Clicks
+6:32 Coming Up: The Pilot</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep00-introduction.mp3" length="7312842" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep00-introduction</guid>
+      <pubDate>Tue, 29 Sep 2026 20:30:00 -0400</pubDate>
+      <itunes:duration>00:07:37</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>0</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep00-introduction.json" type="application/json+chapters"/>
+    </item>
+  </channel>
+</rss>

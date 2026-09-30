@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "slug": "ep00-introduction",
+    "title": "Episode 0: Introduction & Meet the Cast",
+    "description": "Welcome to the Casebook, Fabi. Meet your host Margo (a senior wealth strategist, CPWA and part-time detective) and Teo (a junior associate, quiz master and proud owner of a buzzer), and find out how every episode works: Cold Open, the Huddle, the Case Room, the Real-World File, Teo's Pop Quiz, Fabi's Call and the Lightning Recap. The whole thing fits your commute.\n\nThen meet the recurring cast you'll follow through the course: Don Octavio Salcedo and his box of home videos (\"the Octavio Archive\"), the widow Valentina, the young heiress Sofía, Rodrigo the in-law with a crypto hotel in Tulum, the family lawyer Dr. Villalba, the Castañedas of Guatemala City, the Montalvos of Lima, Preston Hale the private banker, Kendra from Growth, and Doña Pilar, who will ask the same question five times (on purpose).\n\nAll characters, families, firms and banks are fictional.\n\nChapters:\n0:05 Welcome\n1:21 How the Show Works\n2:36 Meet the Cast\n6:06 Notes and Double-Clicks\n6:32 Coming Up: The Pilot",
+    "file": "ep00-introduction.mp3",
+    "length": 7312842,
+    "duration": "00:07:37",
+    "pub_iso": "2026-09-29T20:30:00-04:00",
+    "guid": "wealth-whisperer-ep00-introduction",
+    "episode": 0,
+    "chapters": "ep00-introduction.json"
+  }
+]
