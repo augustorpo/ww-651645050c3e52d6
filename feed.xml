@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:11:55 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:12:57 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -22,43 +22,87 @@
     <item>
       <title>Episode 3: Behavioral Finance, Part 2</title>
       <itunes:title>Episode 3: Behavioral Finance, Part 2</itunes:title>
-      <description>Behavioral Finance, Part 2. Margo and Teo review the rest of the behavioral finance learning objectives for the CPWA exam: biases, investor behavior, and how an advisor coaches clients through them, with one short domestic case.
+      <description>Section 2: Behavioral Finance &amp; Investor Psychology, Part 2 (slow edition, made for listening while driving). The section is 6% of the CPWA exam, within Human Dynamics (18%). It opens with a two-minute warm-up quiz on Episode 2, then goes through the rest of the learning objectives at a calmer pace, with counted lists, pauses, three mini recaps and four quiz breaks.
+
+Covered: what makes a bias emotional; the seven emotional biases (memory trick: LOSS ERA) and the four pairs the exam likes to contrast; educate vs. accommodate (Pompian's "moderate vs. adapt"): the two guidelines, the four boxes, education and accommodation tools, the best practical allocation, and a three-question exam routine (Name it, sort it, size it); the four behavioral investor types (Please Follow Investment Advice: Preserver, Follower, Independent, Accumulator), how to diagnose them, "emotional bookends, cognitive middle," and how each type reacts to the same market move; generations (Silent through Gen Z, "Depression Babies," Boomers vs. Millennials); and earned vs. inherited wealth.
+
+Also: Exam Traps, the short case "The Two Portfolios," and the exam must-knows with Doña Pilar. A one-page cheat sheet goes with this episode.
+
+Next: Family Dynamics, Part 1.
+
+All characters and firms are fictional.
 
 Chapters:
 0:00 Cold Open
-0:27 Welcome, Map, and Callback
-2:03 Emotional Biases: Loss, Confidence, and Control
-4:03 Emotional Biases: Inertia, Regret, and Affinity
-6:27 Accommodate or Educate?
-8:23 The Four Investor Types: Preserver and Follower
-10:29 The Four Investor Types: Independent and Accumulator
-13:06 Generations, Earned and Inherited Wealth
-16:24 Exam Traps
-17:26 Case: The Case of the Two Portfolios
-18:35 Teo's Pop Quiz
-21:06 Lightning Recap (with Doña Pilar)
-22:44 Next Time</description>
-      <itunes:summary>Behavioral Finance, Part 2. Margo and Teo review the rest of the behavioral finance learning objectives for the CPWA exam: biases, investor behavior, and how an advisor coaches clients through them, with one short domestic case.
+0:30 Welcome and Warm-Up Quiz on Episode Two
+3:00 What Makes a Bias Emotional
+4:45 Emotional Biases One to Three
+8:05 Mini Recap One
+8:44 Quiz Break One
+9:33 Emotional Biases Four to Seven
+13:16 The Pairs
+14:38 Educate or Accommodate?
+16:21 The Four Boxes and the Tools
+19:44 Putting It Together: Three Questions
+21:38 Mini Recap Two
+22:17 Quiz Break Two
+23:07 The Four Investor Types: How to Diagnose
+24:49 Preserver and Follower
+26:42 Independent and Accumulator
+28:33 Side by Side
+29:44 How Each Type Reacts
+32:03 Quiz Break Three
+32:51 Generations
+36:38 Earned Versus Inherited Wealth
+38:57 Mini Recap Three
+39:33 Exam Traps
+40:56 Case: The Two Portfolios
+42:26 Quiz Break Four
+43:09 Exam Must-Knows (with Doña Pilar)
+45:12 Next Time</description>
+      <itunes:summary>Section 2: Behavioral Finance &amp; Investor Psychology, Part 2 (slow edition, made for listening while driving). The section is 6% of the CPWA exam, within Human Dynamics (18%). It opens with a two-minute warm-up quiz on Episode 2, then goes through the rest of the learning objectives at a calmer pace, with counted lists, pauses, three mini recaps and four quiz breaks.
+
+Covered: what makes a bias emotional; the seven emotional biases (memory trick: LOSS ERA) and the four pairs the exam likes to contrast; educate vs. accommodate (Pompian's "moderate vs. adapt"): the two guidelines, the four boxes, education and accommodation tools, the best practical allocation, and a three-question exam routine (Name it, sort it, size it); the four behavioral investor types (Please Follow Investment Advice: Preserver, Follower, Independent, Accumulator), how to diagnose them, "emotional bookends, cognitive middle," and how each type reacts to the same market move; generations (Silent through Gen Z, "Depression Babies," Boomers vs. Millennials); and earned vs. inherited wealth.
+
+Also: Exam Traps, the short case "The Two Portfolios," and the exam must-knows with Doña Pilar. A one-page cheat sheet goes with this episode.
+
+Next: Family Dynamics, Part 1.
+
+All characters and firms are fictional.
 
 Chapters:
 0:00 Cold Open
-0:27 Welcome, Map, and Callback
-2:03 Emotional Biases: Loss, Confidence, and Control
-4:03 Emotional Biases: Inertia, Regret, and Affinity
-6:27 Accommodate or Educate?
-8:23 The Four Investor Types: Preserver and Follower
-10:29 The Four Investor Types: Independent and Accumulator
-13:06 Generations, Earned and Inherited Wealth
-16:24 Exam Traps
-17:26 Case: The Case of the Two Portfolios
-18:35 Teo's Pop Quiz
-21:06 Lightning Recap (with Doña Pilar)
-22:44 Next Time</itunes:summary>
+0:30 Welcome and Warm-Up Quiz on Episode Two
+3:00 What Makes a Bias Emotional
+4:45 Emotional Biases One to Three
+8:05 Mini Recap One
+8:44 Quiz Break One
+9:33 Emotional Biases Four to Seven
+13:16 The Pairs
+14:38 Educate or Accommodate?
+16:21 The Four Boxes and the Tools
+19:44 Putting It Together: Three Questions
+21:38 Mini Recap Two
+22:17 Quiz Break Two
+23:07 The Four Investor Types: How to Diagnose
+24:49 Preserver and Follower
+26:42 Independent and Accumulator
+28:33 Side by Side
+29:44 How Each Type Reacts
+32:03 Quiz Break Three
+32:51 Generations
+36:38 Earned Versus Inherited Wealth
+38:57 Mini Recap Three
+39:33 Exam Traps
+40:56 Case: The Two Portfolios
+42:26 Quiz Break Four
+43:09 Exam Must-Knows (with Doña Pilar)
+45:12 Next Time</itunes:summary>
       <itunes:author>The Wealth Whisperer</itunes:author>
-      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep03-behavioral-finance-part2.mp3" length="22341412" type="audio/mpeg"/>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep03-behavioral-finance-part2-v2.mp3" length="43992966" type="audio/mpeg"/>
       <guid isPermaLink="false">wealth-whisperer-ep03-behavioral-finance-part2</guid>
       <pubDate>Wed, 30 Sep 2026 16:47:06 -0400</pubDate>
-      <itunes:duration>00:23:16</itunes:duration>
+      <itunes:duration>00:45:50</itunes:duration>
       <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>

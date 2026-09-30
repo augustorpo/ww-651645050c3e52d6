@@ -24,18 +24,6 @@
     "chapters": "ep01-pilot.json"
   },
   {
-    "slug": "ep03-behavioral-finance-part2",
-    "title": "Episode 3: Behavioral Finance, Part 2",
-    "description": "Behavioral Finance, Part 2. Margo and Teo review the rest of the behavioral finance learning objectives for the CPWA exam: biases, investor behavior, and how an advisor coaches clients through them, with one short domestic case.\n\nChapters:\n0:00 Cold Open\n0:27 Welcome, Map, and Callback\n2:03 Emotional Biases: Loss, Confidence, and Control\n4:03 Emotional Biases: Inertia, Regret, and Affinity\n6:27 Accommodate or Educate?\n8:23 The Four Investor Types: Preserver and Follower\n10:29 The Four Investor Types: Independent and Accumulator\n13:06 Generations, Earned and Inherited Wealth\n16:24 Exam Traps\n17:26 Case: The Case of the Two Portfolios\n18:35 Teo's Pop Quiz\n21:06 Lightning Recap (with Doña Pilar)\n22:44 Next Time",
-    "file": "ep03-behavioral-finance-part2.mp3",
-    "length": 22341412,
-    "duration": "00:23:16",
-    "pub_iso": "2026-09-30T16:47:06-04:00",
-    "guid": "wealth-whisperer-ep03-behavioral-finance-part2",
-    "episode": 3,
-    "chapters": "ep03-behavioral-finance-part2.json"
-  },
-  {
     "slug": "ep02-behavioral-finance-part1",
     "title": "Episode 2: Behavioral Finance & Investor Psychology (Part 1)",
     "description": "Section 2: Behavioral Finance & Investor Psychology, Part 1 (slow edition, made for listening while driving). This section is 6% of the CPWA exam, within Human Dynamics (18%). Same learning objectives as before, at a calmer pace: short sentences, every term defined the first time it comes up, lists announced with a count and repeated at the end, pauses after key points, three mini recaps and four quiz breaks.\n\nCovered: why behavioral finance exists; System 1 and System 2; the four brain structures (memory trick: Alarm, Reward, Ouch, Boss); expected value; utility, the four expected-utility axioms and the three curve shapes; normative, descriptive and prescriptive theory (Should, Does, Helps); Markowitz's mean-variance model (assumptions and weaknesses); prospect theory's four features (Really Losing Doesn't Pay); Andrew Lo's adaptive markets hypothesis (four things change, two things matter); the five theories compared and how the field evolved; and the 13 cognitive biases in two families: belief perseverance (three C's, then \"Really, I'm Human\") and information processing (A Mad Fox Ate Some Old Raisins), plus the four pairs the exam likes to contrast.\n\nShort case: The Miami Beach Pitch. Ends with the exam must-knows, read over tea with Doña Pilar. A one-page cheat sheet goes with this episode.\n\nAll characters and firms are fictional.\n\nChapters:\n0:00 Cold Open\n0:44 Welcome and Three Things You'll Learn\n2:12 Why Behavioral Finance Exists\n4:15 Your Brain on Money\n7:21 Expected Value\n9:24 Utility: What the Money Is Worth to You\n13:46 Should, Does, Helps\n15:25 Mini Recap One\n16:21 Quiz Break One\n17:12 Markowitz and the Mean-Variance Model\n20:34 Prospect Theory\n24:34 Mini Recap Two\n25:13 Quiz Break Two\n26:13 The Adaptive Markets Hypothesis\n29:24 Compare the Theories\n31:20 How the Field Evolved\n33:34 Cognitive Biases: The Big Split\n34:46 Family One: Belief Perseverance\n37:35 Family Two: Information Processing\n40:37 The Exam's Favorite Pairs\n42:19 Mini Recap Three\n43:06 Case: The Miami Beach Pitch\n44:48 Quiz Break Three\n45:26 Quiz Break Four\n46:04 Exam Must-Knows (with Doña Pilar)\n48:14 Next Time",
@@ -46,5 +34,17 @@
     "guid": "wealth-whisperer-ep02-behavioral-finance-part1",
     "episode": 2,
     "chapters": "ep02-behavioral-finance-part1.json"
+  },
+  {
+    "slug": "ep03-behavioral-finance-part2",
+    "title": "Episode 3: Behavioral Finance, Part 2",
+    "description": "Section 2: Behavioral Finance & Investor Psychology, Part 2 (slow edition, made for listening while driving). The section is 6% of the CPWA exam, within Human Dynamics (18%). It opens with a two-minute warm-up quiz on Episode 2, then goes through the rest of the learning objectives at a calmer pace, with counted lists, pauses, three mini recaps and four quiz breaks.\n\nCovered: what makes a bias emotional; the seven emotional biases (memory trick: LOSS ERA) and the four pairs the exam likes to contrast; educate vs. accommodate (Pompian's \"moderate vs. adapt\"): the two guidelines, the four boxes, education and accommodation tools, the best practical allocation, and a three-question exam routine (Name it, sort it, size it); the four behavioral investor types (Please Follow Investment Advice: Preserver, Follower, Independent, Accumulator), how to diagnose them, \"emotional bookends, cognitive middle,\" and how each type reacts to the same market move; generations (Silent through Gen Z, \"Depression Babies,\" Boomers vs. Millennials); and earned vs. inherited wealth.\n\nAlso: Exam Traps, the short case \"The Two Portfolios,\" and the exam must-knows with Doña Pilar. A one-page cheat sheet goes with this episode.\n\nNext: Family Dynamics, Part 1.\n\nAll characters and firms are fictional.\n\nChapters:\n0:00 Cold Open\n0:30 Welcome and Warm-Up Quiz on Episode Two\n3:00 What Makes a Bias Emotional\n4:45 Emotional Biases One to Three\n8:05 Mini Recap One\n8:44 Quiz Break One\n9:33 Emotional Biases Four to Seven\n13:16 The Pairs\n14:38 Educate or Accommodate?\n16:21 The Four Boxes and the Tools\n19:44 Putting It Together: Three Questions\n21:38 Mini Recap Two\n22:17 Quiz Break Two\n23:07 The Four Investor Types: How to Diagnose\n24:49 Preserver and Follower\n26:42 Independent and Accumulator\n28:33 Side by Side\n29:44 How Each Type Reacts\n32:03 Quiz Break Three\n32:51 Generations\n36:38 Earned Versus Inherited Wealth\n38:57 Mini Recap Three\n39:33 Exam Traps\n40:56 Case: The Two Portfolios\n42:26 Quiz Break Four\n43:09 Exam Must-Knows (with Doña Pilar)\n45:12 Next Time",
+    "file": "ep03-behavioral-finance-part2-v2.mp3",
+    "length": 43992966,
+    "duration": "00:45:50",
+    "pub_iso": "2026-09-30T16:47:06-04:00",
+    "guid": "wealth-whisperer-ep03-behavioral-finance-part2",
+    "episode": 3,
+    "chapters": "ep03-behavioral-finance-part2.json"
   }
 ]

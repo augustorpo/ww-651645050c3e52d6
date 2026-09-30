@@ -2,55 +2,111 @@
   "version": "1.2.0",
   "chapters": [
     {
-      "startTime": 0.27,
+      "startTime": 0.32,
       "title": "Cold Open"
     },
     {
-      "startTime": 27.01,
-      "title": "Welcome, Map, and Callback"
+      "startTime": 30.66,
+      "title": "Welcome and Warm-Up Quiz on Episode Two"
     },
     {
-      "startTime": 123.7,
-      "title": "Emotional Biases: Loss, Confidence, and Control"
+      "startTime": 180.09,
+      "title": "What Makes a Bias Emotional"
     },
     {
-      "startTime": 243.71,
-      "title": "Emotional Biases: Inertia, Regret, and Affinity"
+      "startTime": 285.02,
+      "title": "Emotional Biases One to Three"
     },
     {
-      "startTime": 387.45,
-      "title": "Accommodate or Educate?"
+      "startTime": 485.5,
+      "title": "Mini Recap One"
     },
     {
-      "startTime": 503.8,
-      "title": "The Four Investor Types: Preserver and Follower"
+      "startTime": 524.96,
+      "title": "Quiz Break One"
     },
     {
-      "startTime": 629.88,
-      "title": "The Four Investor Types: Independent and Accumulator"
+      "startTime": 573.23,
+      "title": "Emotional Biases Four to Seven"
     },
     {
-      "startTime": 786.72,
-      "title": "Generations, Earned and Inherited Wealth"
+      "startTime": 796.38,
+      "title": "The Pairs"
     },
     {
-      "startTime": 984.08,
+      "startTime": 878.66,
+      "title": "Educate or Accommodate?"
+    },
+    {
+      "startTime": 981.0,
+      "title": "The Four Boxes and the Tools"
+    },
+    {
+      "startTime": 1184.17,
+      "title": "Putting It Together: Three Questions"
+    },
+    {
+      "startTime": 1298.29,
+      "title": "Mini Recap Two"
+    },
+    {
+      "startTime": 1337.54,
+      "title": "Quiz Break Two"
+    },
+    {
+      "startTime": 1387.54,
+      "title": "The Four Investor Types: How to Diagnose"
+    },
+    {
+      "startTime": 1489.49,
+      "title": "Preserver and Follower"
+    },
+    {
+      "startTime": 1602.73,
+      "title": "Independent and Accumulator"
+    },
+    {
+      "startTime": 1713.21,
+      "title": "Side by Side"
+    },
+    {
+      "startTime": 1784.89,
+      "title": "How Each Type Reacts"
+    },
+    {
+      "startTime": 1923.8,
+      "title": "Quiz Break Three"
+    },
+    {
+      "startTime": 1971.73,
+      "title": "Generations"
+    },
+    {
+      "startTime": 2198.89,
+      "title": "Earned Versus Inherited Wealth"
+    },
+    {
+      "startTime": 2337.41,
+      "title": "Mini Recap Three"
+    },
+    {
+      "startTime": 2373.2,
       "title": "Exam Traps"
     },
     {
-      "startTime": 1046.75,
-      "title": "Case: The Case of the Two Portfolios"
+      "startTime": 2456.81,
+      "title": "Case: The Two Portfolios"
     },
     {
-      "startTime": 1115.19,
-      "title": "Teo's Pop Quiz"
+      "startTime": 2546.61,
+      "title": "Quiz Break Four"
     },
     {
-      "startTime": 1266.34,
-      "title": "Lightning Recap (with Doña Pilar)"
+      "startTime": 2589.56,
+      "title": "Exam Must-Knows (with Doña Pilar)"
     },
     {
-      "startTime": 1364.15,
+      "startTime": 2712.5,
       "title": "Next Time"
     }
   ]
