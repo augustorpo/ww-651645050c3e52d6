@@ -10,5 +10,17 @@
     "guid": "wealth-whisperer-ep00-introduction",
     "episode": 0,
     "chapters": "ep00-introduction.json"
+  },
+  {
+    "slug": "ep01-pilot",
+    "title": "Episode 1: Ethics (The Pilot)",
+    "description": "Module: Overview & Ethics. Three case files and one question that sounds simple and never is: who, exactly, is my client?\n\nThe Case of the Three Wedding Rings: Don Octavio, a US citizen who died in Colombia, a widow without a US passport, and a lawyer who arrives much too early with papers to sign. Covers worldwide estate tax, the QDOT and conflicts of interest.\nThe Case of the Silent Trust: the Castañedas, a Delaware dynasty trust, and a son who starts asking questions. Covers confidentiality and preparing heirs.\nThe Case of the Sixty-Thousand-Dollar Teacup: tea with Doña Pilar and US estate tax for nonresident non-citizens.\n\nThe IWI Code of Professional Responsibility runs through all three, followed by Teo's Pop Quiz, Fabi's Call and a Lightning Recap with Doña Pilar.\n\nAll characters, families, firms and banks are fictional.\n\nChapters:\n0:00 Cold Open: The Octavio Archive\n0:45 Welcome to the Pilot\n1:34 The Case of the Three Wedding Rings\n3:28 Valentina and the QDOT\n6:59 The Huddle: Who Is the Client?\n11:03 The Case of the Silent Trust\n12:56 The Huddle: Secrets, Trusts, and Heirs\n14:59 The Case of the Sixty-Thousand-Dollar Teacup\n18:08 The Huddle: Patience Is a Principle\n19:07 Teo's Pop Quiz\n21:36 Fabi's Call\n22:52 Lightning Recap (with Doña Pilar)\n24:21 Next Time",
+    "file": "ep01-pilot.mp3",
+    "length": 24120660,
+    "duration": "00:25:08",
+    "pub_iso": "2026-09-29T20:45:00-04:00",
+    "guid": "wealth-whisperer-ep01-pilot",
+    "episode": 1,
+    "chapters": "ep01-pilot.json"
   }
 ]

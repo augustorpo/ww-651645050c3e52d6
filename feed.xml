@@ -20,6 +20,68 @@
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
     <item>
+      <title>Episode 1: Ethics (The Pilot)</title>
+      <itunes:title>Episode 1: Ethics (The Pilot)</itunes:title>
+      <description>Module: Overview &amp; Ethics. Three case files and one question that sounds simple and never is: who, exactly, is my client?
+
+The Case of the Three Wedding Rings: Don Octavio, a US citizen who died in Colombia, a widow without a US passport, and a lawyer who arrives much too early with papers to sign. Covers worldwide estate tax, the QDOT and conflicts of interest.
+The Case of the Silent Trust: the Castañedas, a Delaware dynasty trust, and a son who starts asking questions. Covers confidentiality and preparing heirs.
+The Case of the Sixty-Thousand-Dollar Teacup: tea with Doña Pilar and US estate tax for nonresident non-citizens.
+
+The IWI Code of Professional Responsibility runs through all three, followed by Teo's Pop Quiz, Fabi's Call and a Lightning Recap with Doña Pilar.
+
+All characters, families, firms and banks are fictional.
+
+Chapters:
+0:00 Cold Open: The Octavio Archive
+0:45 Welcome to the Pilot
+1:34 The Case of the Three Wedding Rings
+3:28 Valentina and the QDOT
+6:59 The Huddle: Who Is the Client?
+11:03 The Case of the Silent Trust
+12:56 The Huddle: Secrets, Trusts, and Heirs
+14:59 The Case of the Sixty-Thousand-Dollar Teacup
+18:08 The Huddle: Patience Is a Principle
+19:07 Teo's Pop Quiz
+21:36 Fabi's Call
+22:52 Lightning Recap (with Doña Pilar)
+24:21 Next Time</description>
+      <itunes:summary>Module: Overview &amp; Ethics. Three case files and one question that sounds simple and never is: who, exactly, is my client?
+
+The Case of the Three Wedding Rings: Don Octavio, a US citizen who died in Colombia, a widow without a US passport, and a lawyer who arrives much too early with papers to sign. Covers worldwide estate tax, the QDOT and conflicts of interest.
+The Case of the Silent Trust: the Castañedas, a Delaware dynasty trust, and a son who starts asking questions. Covers confidentiality and preparing heirs.
+The Case of the Sixty-Thousand-Dollar Teacup: tea with Doña Pilar and US estate tax for nonresident non-citizens.
+
+The IWI Code of Professional Responsibility runs through all three, followed by Teo's Pop Quiz, Fabi's Call and a Lightning Recap with Doña Pilar.
+
+All characters, families, firms and banks are fictional.
+
+Chapters:
+0:00 Cold Open: The Octavio Archive
+0:45 Welcome to the Pilot
+1:34 The Case of the Three Wedding Rings
+3:28 Valentina and the QDOT
+6:59 The Huddle: Who Is the Client?
+11:03 The Case of the Silent Trust
+12:56 The Huddle: Secrets, Trusts, and Heirs
+14:59 The Case of the Sixty-Thousand-Dollar Teacup
+18:08 The Huddle: Patience Is a Principle
+19:07 Teo's Pop Quiz
+21:36 Fabi's Call
+22:52 Lightning Recap (with Doña Pilar)
+24:21 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep01-pilot.mp3" length="24120660" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep01-pilot</guid>
+      <pubDate>Tue, 29 Sep 2026 20:45:00 -0400</pubDate>
+      <itunes:duration>00:25:08</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep01-pilot.json" type="application/json+chapters"/>
+    </item>
+    <item>
       <title>Episode 0: Introduction &amp; Meet the Cast</title>
       <itunes:title>Episode 0: Introduction &amp; Meet the Cast</itunes:title>
       <description>Welcome to the Casebook, Fabi. Meet your host Margo (a senior wealth strategist, CPWA and part-time detective) and Teo (a junior associate, quiz master and proud owner of a buzzer), and find out how every episode works: Cold Open, the Huddle, the Case Room, the Real-World File, Teo's Pop Quiz, Fabi's Call and the Lightning Recap. The whole thing fits your commute.
