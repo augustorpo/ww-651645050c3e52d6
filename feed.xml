@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 11:04:45 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:09:22 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -19,6 +19,92 @@
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 5: Family Dynamics, Part 2</title>
+      <itunes:title>Episode 5: Family Dynamics, Part 2</itunes:title>
+      <description>Section 3: Family Dynamics, Part 2 (extra-slow edition, made for listening while driving). Family Dynamics is 9% of the CPWA exam, within Human Dynamics (18%). It opens with a one-minute "where we are" recap and closes with a 30-second preview of Tax Planning. Lists are counted, taken one item at a time and repeated slowly, with longer pauses, three mini recaps and four quiz breaks.
+
+Covered (KS 4–7): human, social and financial capital (Me, We, and Money) and the family education plan; the elements of a successful family meeting (Before, during, after); governance structures (A Council Can Build Committees), the family employment policy, and matching governance to the ownership stage (controlling owner, sibling partnership, cousin consortium); the family mission statement (the five W's and one H) vs. the family constitution; the seven-step financial planning process (Ugly Iguanas Always Dance Poorly In Miami) and its five implementation steps (A Plan Should Come Complete); communicating across generations (three T's and two L's); navigating family conflict, including mediation vs. arbitration and which specialists to bring in; and tools for generational change (Some Elders Gracefully Exit, Passing Power).
+
+Also: Exam Traps, a short case ("The Montalvo Succession"), and the exam must-knows with Doña Pilar. A one-page cheat sheet goes with this episode.
+
+Next: Tax Planning begins with Episode 6.
+
+All characters and firms are fictional. Memory tricks are study aids, not official terms.
+
+Chapters:
+0:00 Cold Open
+0:24 Welcome: Where We Are
+1:34 Three Things You'll Learn Today
+2:22 Three Kinds of Family Capital
+4:57 The Family Education Plan
+8:50 Mini Recap One
+9:30 Quiz Break One
+10:26 The Family Meeting
+13:18 Governance Structures
+16:51 Governance Models by Stage
+19:56 Mini Recap Two
+20:39 Quiz Break Two
+21:30 The Family Mission Statement
+24:47 The Financial Planning Process
+27:01 Implementation Steps
+30:00 Mini Recap Three
+30:49 Quiz Break Three
+31:32 Communicating Across Generations
+33:57 Navigating Family Conflict
+39:20 Tools for Generational Change
+41:51 Exam Traps
+43:18 Case: The Montalvo Succession
+45:20 Quiz Break Four
+46:03 Exam Must-Knows (with Doña Pilar)
+48:17 Next Time</description>
+      <itunes:summary>Section 3: Family Dynamics, Part 2 (extra-slow edition, made for listening while driving). Family Dynamics is 9% of the CPWA exam, within Human Dynamics (18%). It opens with a one-minute "where we are" recap and closes with a 30-second preview of Tax Planning. Lists are counted, taken one item at a time and repeated slowly, with longer pauses, three mini recaps and four quiz breaks.
+
+Covered (KS 4–7): human, social and financial capital (Me, We, and Money) and the family education plan; the elements of a successful family meeting (Before, during, after); governance structures (A Council Can Build Committees), the family employment policy, and matching governance to the ownership stage (controlling owner, sibling partnership, cousin consortium); the family mission statement (the five W's and one H) vs. the family constitution; the seven-step financial planning process (Ugly Iguanas Always Dance Poorly In Miami) and its five implementation steps (A Plan Should Come Complete); communicating across generations (three T's and two L's); navigating family conflict, including mediation vs. arbitration and which specialists to bring in; and tools for generational change (Some Elders Gracefully Exit, Passing Power).
+
+Also: Exam Traps, a short case ("The Montalvo Succession"), and the exam must-knows with Doña Pilar. A one-page cheat sheet goes with this episode.
+
+Next: Tax Planning begins with Episode 6.
+
+All characters and firms are fictional. Memory tricks are study aids, not official terms.
+
+Chapters:
+0:00 Cold Open
+0:24 Welcome: Where We Are
+1:34 Three Things You'll Learn Today
+2:22 Three Kinds of Family Capital
+4:57 The Family Education Plan
+8:50 Mini Recap One
+9:30 Quiz Break One
+10:26 The Family Meeting
+13:18 Governance Structures
+16:51 Governance Models by Stage
+19:56 Mini Recap Two
+20:39 Quiz Break Two
+21:30 The Family Mission Statement
+24:47 The Financial Planning Process
+27:01 Implementation Steps
+30:00 Mini Recap Three
+30:49 Quiz Break Three
+31:32 Communicating Across Generations
+33:57 Navigating Family Conflict
+39:20 Tools for Generational Change
+41:51 Exam Traps
+43:18 Case: The Montalvo Succession
+45:20 Quiz Break Four
+46:03 Exam Must-Knows (with Doña Pilar)
+48:17 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep05-family-dynamics-part2.mp3" length="47147685" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep05-family-dynamics-part2</guid>
+      <pubDate>Tue, 06 Oct 2026 11:09:22 -0400</pubDate>
+      <itunes:duration>00:49:07</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep05-family-dynamics-part2.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Episode 4: Family Dynamics, Part 1</title>
       <itunes:title>Episode 4: Family Dynamics, Part 1</itunes:title>
