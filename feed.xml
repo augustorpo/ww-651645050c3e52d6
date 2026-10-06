@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:12:57 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:04:45 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -19,6 +19,94 @@
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 4: Family Dynamics, Part 1</title>
+      <itunes:title>Episode 4: Family Dynamics, Part 1</itunes:title>
+      <description>Section 3: Family Dynamics, Part 1 (extra-slow edition, made for listening while driving). Family Dynamics is 9% of the CPWA exam, within Human Dynamics (18%). It opens with a one-minute "where we are" recap and closes with a 30-second preview of Part 2. Lists are counted, taken one item at a time and repeated slowly, with longer pauses, three mini recaps and four quiz breaks.
+
+Covered (KS 1–3): client discovery (goals, challenges, opportunities); the six question areas and six document groups for a family profile (memory trick: Before Every Family Interview, Take Minutes); immigrants vs. natives to wealth; the seven common characteristics of high-net-worth families (the seven P's) and fair vs. equal; what a family office does; single-family vs. multi-family office, plus virtual, embedded and hybrid models; choosing the best-fit infrastructure by wealth level and objectives; and family roles in trusts, closely held businesses (the three-circle model), family foundations, LLCs and charities (The Big Family Loves Charity).
+
+Also: Exam Traps, a short case ("The Montalvo Discovery," a Florida family farm business), and the exam must-knows with Doña Pilar. A one-page cheat sheet goes with this episode.
+
+Next: Family Dynamics, Part 2.
+
+All characters and firms are fictional. Memory tricks are study aids, not official terms.
+
+Chapters:
+0:00 Cold Open
+0:35 Welcome: Where We Are
+1:45 Three Things You'll Learn Today
+2:34 Why the Client Is a Family
+3:34 Client Discovery: Goals, Challenges, Opportunities
+6:06 The Questions to Ask
+8:26 The Documents
+11:26 Mini Recap One
+12:10 Quiz Break One
+13:01 Immigrants and Natives to Wealth
+17:08 What High-Net-Worth Families Have in Common
+20:32 Mini Recap Two
+21:19 Quiz Break Two
+22:11 What a Family Office Does
+23:51 Single-Family or Multi-Family?
+29:29 Choosing the Best Fit
+33:01 Mini Recap Three
+33:49 Quiz Break Three
+34:40 Family Roles: Trusts
+38:04 Family Roles: The Family Business
+40:22 Family Roles: Foundations, LLCs and Charities
+43:32 Exam Traps
+45:08 Case: The Montalvo Discovery
+47:18 Quiz Break Four
+48:00 Exam Must-Knows (with Doña Pilar)
+50:13 Next Time</description>
+      <itunes:summary>Section 3: Family Dynamics, Part 1 (extra-slow edition, made for listening while driving). Family Dynamics is 9% of the CPWA exam, within Human Dynamics (18%). It opens with a one-minute "where we are" recap and closes with a 30-second preview of Part 2. Lists are counted, taken one item at a time and repeated slowly, with longer pauses, three mini recaps and four quiz breaks.
+
+Covered (KS 1–3): client discovery (goals, challenges, opportunities); the six question areas and six document groups for a family profile (memory trick: Before Every Family Interview, Take Minutes); immigrants vs. natives to wealth; the seven common characteristics of high-net-worth families (the seven P's) and fair vs. equal; what a family office does; single-family vs. multi-family office, plus virtual, embedded and hybrid models; choosing the best-fit infrastructure by wealth level and objectives; and family roles in trusts, closely held businesses (the three-circle model), family foundations, LLCs and charities (The Big Family Loves Charity).
+
+Also: Exam Traps, a short case ("The Montalvo Discovery," a Florida family farm business), and the exam must-knows with Doña Pilar. A one-page cheat sheet goes with this episode.
+
+Next: Family Dynamics, Part 2.
+
+All characters and firms are fictional. Memory tricks are study aids, not official terms.
+
+Chapters:
+0:00 Cold Open
+0:35 Welcome: Where We Are
+1:45 Three Things You'll Learn Today
+2:34 Why the Client Is a Family
+3:34 Client Discovery: Goals, Challenges, Opportunities
+6:06 The Questions to Ask
+8:26 The Documents
+11:26 Mini Recap One
+12:10 Quiz Break One
+13:01 Immigrants and Natives to Wealth
+17:08 What High-Net-Worth Families Have in Common
+20:32 Mini Recap Two
+21:19 Quiz Break Two
+22:11 What a Family Office Does
+23:51 Single-Family or Multi-Family?
+29:29 Choosing the Best Fit
+33:01 Mini Recap Three
+33:49 Quiz Break Three
+34:40 Family Roles: Trusts
+38:04 Family Roles: The Family Business
+40:22 Family Roles: Foundations, LLCs and Charities
+43:32 Exam Traps
+45:08 Case: The Montalvo Discovery
+47:18 Quiz Break Four
+48:00 Exam Must-Knows (with Doña Pilar)
+50:13 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep04-family-dynamics-part1.mp3" length="48945328" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep04-family-dynamics-part1</guid>
+      <pubDate>Tue, 06 Oct 2026 11:04:45 -0400</pubDate>
+      <itunes:duration>00:50:59</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep04-family-dynamics-part1.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Episode 3: Behavioral Finance, Part 2</title>
       <itunes:title>Episode 3: Behavioral Finance, Part 2</itunes:title>
