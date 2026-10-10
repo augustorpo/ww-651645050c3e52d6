@@ -1,0 +1,105 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.34,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 26.73,
+      "title": "Welcome: Where We Are"
+    },
+    {
+      "startTime": 93.6,
+      "title": "Three Things You'll Learn Today"
+    },
+    {
+      "startTime": 152.88,
+      "title": "The Rate Structure"
+    },
+    {
+      "startTime": 336.06,
+      "title": "The Tax Formula"
+    },
+    {
+      "startTime": 583.87,
+      "title": "The Formula in Action"
+    },
+    {
+      "startTime": 718.25,
+      "title": "Interest: Five Classes"
+    },
+    {
+      "startTime": 887.57,
+      "title": "Estimated Tax"
+    },
+    {
+      "startTime": 1040.76,
+      "title": "Mini Recap One"
+    },
+    {
+      "startTime": 1098.34,
+      "title": "Quiz Break One"
+    },
+    {
+      "startTime": 1151.49,
+      "title": "Capital Gains: Short and Long"
+    },
+    {
+      "startTime": 1226.57,
+      "title": "Capital Gains Rates"
+    },
+    {
+      "startTime": 1319.35,
+      "title": "The Extra 3.8"
+    },
+    {
+      "startTime": 1426.19,
+      "title": "Netting"
+    },
+    {
+      "startTime": 1612.69,
+      "title": "Mini Recap Two"
+    },
+    {
+      "startTime": 1659.62,
+      "title": "Quiz Break Two"
+    },
+    {
+      "startTime": 1716.07,
+      "title": "Qualified Dividends"
+    },
+    {
+      "startTime": 1891.44,
+      "title": "Wash Sales"
+    },
+    {
+      "startTime": 2078.07,
+      "title": "Mini Recap Three"
+    },
+    {
+      "startTime": 2119.03,
+      "title": "Quiz Break Three"
+    },
+    {
+      "startTime": 2167.92,
+      "title": "Exam Traps"
+    },
+    {
+      "startTime": 2251.98,
+      "title": "Case: The Montalvo Harvest"
+    },
+    {
+      "startTime": 2357.36,
+      "title": "Quiz Break Four"
+    },
+    {
+      "startTime": 2398.42,
+      "title": "Exam Must-Knows (with Doña Pilar)"
+    },
+    {
+      "startTime": 2519.68,
+      "title": "Next Time"
+    }
+  ]
+}

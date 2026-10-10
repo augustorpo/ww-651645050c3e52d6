@@ -70,5 +70,17 @@
     "guid": "wealth-whisperer-ep05-family-dynamics-part2",
     "episode": 5,
     "chapters": "ep05-family-dynamics-part2.json"
+  },
+  {
+    "slug": "ep06-tax-planning-part1",
+    "title": "Episode 6: Tax Planning, Part 1",
+    "description": "Tax Planning, Part 1 (Section II.A, 15% of the exam): how individual income tax works. The seven brackets and marginal vs. effective rates, the regular tax formula, the five classes of interest, estimated tax safe harbors, short- vs. long-term capital gains and their rates (plus the 3.8% NIIT), how gains and losses net, qualified dividends, and wash sales. Figures are for tax year 2026. Memory tricks are just ours. Cheat sheet: ep06-cheatsheet.pdf.\n\nChapters:\n0:00 Cold Open\n0:26 Welcome: Where We Are\n1:33 Three Things You'll Learn Today\n2:32 The Rate Structure\n5:36 The Tax Formula\n9:43 The Formula in Action\n11:58 Interest: Five Classes\n14:47 Estimated Tax\n17:20 Mini Recap One\n18:18 Quiz Break One\n19:11 Capital Gains: Short and Long\n20:26 Capital Gains Rates\n21:59 The Extra 3.8\n23:46 Netting\n26:52 Mini Recap Two\n27:39 Quiz Break Two\n28:36 Qualified Dividends\n31:31 Wash Sales\n34:38 Mini Recap Three\n35:19 Quiz Break Three\n36:07 Exam Traps\n37:31 Case: The Montalvo Harvest\n39:17 Quiz Break Four\n39:58 Exam Must-Knows (with Doña Pilar)\n41:59 Next Time",
+    "file": "ep06-tax-planning-part1.mp3",
+    "length": 41178389,
+    "duration": "00:42:54",
+    "pub_iso": "2026-10-10T17:35:23-04:00",
+    "guid": "wealth-whisperer-ep06-tax-planning-part1",
+    "episode": 6,
+    "chapters": "ep06-tax-planning-part1.json"
   }
 ]
