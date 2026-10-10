@@ -82,5 +82,17 @@
     "guid": "wealth-whisperer-ep06-tax-planning-part1",
     "episode": 6,
     "chapters": "ep06-tax-planning-part1.json"
+  },
+  {
+    "slug": "ep07-tax-planning-part2",
+    "title": "Episode 7: Tax Planning, Part 2",
+    "description": "Tax Planning, Part 2 (Section II.A, 15% of the exam): the alternative minimum tax (formula, triggers, spotting AMT clients, minimizing it, the AMT credit), charitable deduction limits for public charities vs. private foundations, mortgage interest, investment interest, and passive vs. active business interest. Figures are for tax year 2026. Memory tricks are just ours. Cheat sheet: ep07-cheatsheet.pdf.\n\nChapters:\n0:00 Cold Open\n0:28 Welcome: Where We Are\n1:29 Three Things You'll Learn Today\n2:22 Why AMT Exists\n3:06 The AMT Formula\n5:52 AMT versus Regular Tax\n7:47 What Triggers AMT\n9:55 Spotting the AMT Client\n11:40 AMT in Action\n13:38 Mini Recap One\n14:30 Quiz Break One\n15:27 Minimizing AMT and the Credit\n18:25 Quiz Break Two\n19:05 Charitable Limits\n20:57 Public or Private?\n24:10 Giving Smarter\n25:52 Mini Recap Two\n26:41 Quiz Break Three\n27:43 Mortgage Interest\n29:28 Investment Interest\n31:52 Passive versus Active\n33:44 Business Interest\n35:14 Mini Recap Three\n35:56 Exam Traps\n37:19 Case: The Montalvo Gift\n38:57 Quiz Break Four\n39:43 Exam Must-Knows (with Doña Pilar)\n41:38 Next Time",
+    "file": "ep07-tax-planning-part2.mp3",
+    "length": 40759176,
+    "duration": "00:42:27",
+    "pub_iso": "2026-10-10T17:35:32-04:00",
+    "guid": "wealth-whisperer-ep07-tax-planning-part2",
+    "episode": 7,
+    "chapters": "ep07-tax-planning-part2.json"
   }
 ]

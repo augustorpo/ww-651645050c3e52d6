@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:35:23 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:35:32 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -19,6 +19,82 @@
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 7: Tax Planning, Part 2</title>
+      <itunes:title>Episode 7: Tax Planning, Part 2</itunes:title>
+      <description>Tax Planning, Part 2 (Section II.A, 15% of the exam): the alternative minimum tax (formula, triggers, spotting AMT clients, minimizing it, the AMT credit), charitable deduction limits for public charities vs. private foundations, mortgage interest, investment interest, and passive vs. active business interest. Figures are for tax year 2026. Memory tricks are just ours. Cheat sheet: ep07-cheatsheet.pdf.
+
+Chapters:
+0:00 Cold Open
+0:28 Welcome: Where We Are
+1:29 Three Things You'll Learn Today
+2:22 Why AMT Exists
+3:06 The AMT Formula
+5:52 AMT versus Regular Tax
+7:47 What Triggers AMT
+9:55 Spotting the AMT Client
+11:40 AMT in Action
+13:38 Mini Recap One
+14:30 Quiz Break One
+15:27 Minimizing AMT and the Credit
+18:25 Quiz Break Two
+19:05 Charitable Limits
+20:57 Public or Private?
+24:10 Giving Smarter
+25:52 Mini Recap Two
+26:41 Quiz Break Three
+27:43 Mortgage Interest
+29:28 Investment Interest
+31:52 Passive versus Active
+33:44 Business Interest
+35:14 Mini Recap Three
+35:56 Exam Traps
+37:19 Case: The Montalvo Gift
+38:57 Quiz Break Four
+39:43 Exam Must-Knows (with Doña Pilar)
+41:38 Next Time</description>
+      <itunes:summary>Tax Planning, Part 2 (Section II.A, 15% of the exam): the alternative minimum tax (formula, triggers, spotting AMT clients, minimizing it, the AMT credit), charitable deduction limits for public charities vs. private foundations, mortgage interest, investment interest, and passive vs. active business interest. Figures are for tax year 2026. Memory tricks are just ours. Cheat sheet: ep07-cheatsheet.pdf.
+
+Chapters:
+0:00 Cold Open
+0:28 Welcome: Where We Are
+1:29 Three Things You'll Learn Today
+2:22 Why AMT Exists
+3:06 The AMT Formula
+5:52 AMT versus Regular Tax
+7:47 What Triggers AMT
+9:55 Spotting the AMT Client
+11:40 AMT in Action
+13:38 Mini Recap One
+14:30 Quiz Break One
+15:27 Minimizing AMT and the Credit
+18:25 Quiz Break Two
+19:05 Charitable Limits
+20:57 Public or Private?
+24:10 Giving Smarter
+25:52 Mini Recap Two
+26:41 Quiz Break Three
+27:43 Mortgage Interest
+29:28 Investment Interest
+31:52 Passive versus Active
+33:44 Business Interest
+35:14 Mini Recap Three
+35:56 Exam Traps
+37:19 Case: The Montalvo Gift
+38:57 Quiz Break Four
+39:43 Exam Must-Knows (with Doña Pilar)
+41:38 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep07-tax-planning-part2.mp3" length="40759176" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep07-tax-planning-part2</guid>
+      <pubDate>Sat, 10 Oct 2026 17:35:32 -0400</pubDate>
+      <itunes:duration>00:42:27</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep07-tax-planning-part2.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Episode 6: Tax Planning, Part 1</title>
       <itunes:title>Episode 6: Tax Planning, Part 1</itunes:title>
