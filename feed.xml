@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:40:10 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:29:49 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -19,6 +19,104 @@
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 11: Portfolio Management, Part 2</title>
+      <itunes:title>Episode 11: Portfolio Management, Part 2</itunes:title>
+      <description>Portfolio Management, Part 2 (Section II.B, 9% of the exam): alternatives, ESG and special portfolios. Middle-pace driving edition with a one-minute opening recap and a 30-second preview of Part 3.
+
+Covered (KS 4–6, 12): the common characteristics of alternative investments (I Can't Value Funds Like Others) and accredited-investor rules; the categories (Really Smart People Hedge Constantly): real assets, structured products, private markets, hedge funds and commodities; hedge fund strategies; liquid alternatives; benefits and risks of each category, the illiquidity problem, commitment pacing and due diligence; sizing the alternatives mix (Goals, Time, Risk, Liquidity, Taxes) with two client examples; ESG pillars and approaches (Every Investor Picks Their Impact); and the rules for investing for trusts (prudent investor rule, impartiality, retention clauses, directed trusts) and charities (UPMIFA, the private-foundation payout, jeopardizing investments, excess business holdings, UBTI and CRTs).
+
+Also: Exam Traps, a short case ("The Montalvo Foundation"), and the exam must-knows with Doña Pilar. Memory tricks are just ours. Cheat sheet: ep11-cheatsheet.pdf.
+
+All characters and firms are fictional.
+
+Chapters:
+0:00 Cold Open
+0:30 Welcome: Where We Are
+1:26 Three Things You'll Learn Today
+2:08 What Makes an Alternative
+4:20 Quiz Break One
+4:58 The Alternatives Family
+6:19 Real Assets
+7:41 Structured Products
+9:44 Commodities
+11:07 Private Markets and Hedge Funds
+12:54 Hedge Fund Strategies
+14:19 Liquid Alternatives
+15:40 Mini Recap One
+16:25 Benefits and Risks Side by Side
+18:06 The Illiquidity Problem
+20:04 Due Diligence
+21:23 Quiz Break Two
+22:07 How Much to Own
+24:36 Two Client Examples
+26:05 Quiz Break Three
+26:46 Alternatives and Taxes
+28:12 Mini Recap Two
+28:56 ESG
+29:57 Five Ways to Invest Responsibly
+32:25 Investing for Trusts
+34:38 When a Trust Holds the Family Business
+36:04 Investing for Charities
+38:16 Quiz Break Four
+39:00 Mini Recap Three
+39:43 Exam Traps
+40:50 Case: The Montalvo Foundation
+42:22 Exam Must-Knows (with Doña Pilar)
+44:15 Next Time</description>
+      <itunes:summary>Portfolio Management, Part 2 (Section II.B, 9% of the exam): alternatives, ESG and special portfolios. Middle-pace driving edition with a one-minute opening recap and a 30-second preview of Part 3.
+
+Covered (KS 4–6, 12): the common characteristics of alternative investments (I Can't Value Funds Like Others) and accredited-investor rules; the categories (Really Smart People Hedge Constantly): real assets, structured products, private markets, hedge funds and commodities; hedge fund strategies; liquid alternatives; benefits and risks of each category, the illiquidity problem, commitment pacing and due diligence; sizing the alternatives mix (Goals, Time, Risk, Liquidity, Taxes) with two client examples; ESG pillars and approaches (Every Investor Picks Their Impact); and the rules for investing for trusts (prudent investor rule, impartiality, retention clauses, directed trusts) and charities (UPMIFA, the private-foundation payout, jeopardizing investments, excess business holdings, UBTI and CRTs).
+
+Also: Exam Traps, a short case ("The Montalvo Foundation"), and the exam must-knows with Doña Pilar. Memory tricks are just ours. Cheat sheet: ep11-cheatsheet.pdf.
+
+All characters and firms are fictional.
+
+Chapters:
+0:00 Cold Open
+0:30 Welcome: Where We Are
+1:26 Three Things You'll Learn Today
+2:08 What Makes an Alternative
+4:20 Quiz Break One
+4:58 The Alternatives Family
+6:19 Real Assets
+7:41 Structured Products
+9:44 Commodities
+11:07 Private Markets and Hedge Funds
+12:54 Hedge Fund Strategies
+14:19 Liquid Alternatives
+15:40 Mini Recap One
+16:25 Benefits and Risks Side by Side
+18:06 The Illiquidity Problem
+20:04 Due Diligence
+21:23 Quiz Break Two
+22:07 How Much to Own
+24:36 Two Client Examples
+26:05 Quiz Break Three
+26:46 Alternatives and Taxes
+28:12 Mini Recap Two
+28:56 ESG
+29:57 Five Ways to Invest Responsibly
+32:25 Investing for Trusts
+34:38 When a Trust Holds the Family Business
+36:04 Investing for Charities
+38:16 Quiz Break Four
+39:00 Mini Recap Three
+39:43 Exam Traps
+40:50 Case: The Montalvo Foundation
+42:22 Exam Must-Knows (with Doña Pilar)
+44:15 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep11-portfolio-management-part2.mp3" length="43325874" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep11-portfolio-management-part2</guid>
+      <pubDate>Wed, 14 Oct 2026 03:29:49 -0400</pubDate>
+      <itunes:duration>00:45:08</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep11-portfolio-management-part2.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Episode 10: Portfolio Management, Part 1</title>
       <itunes:title>Episode 10: Portfolio Management, Part 1</itunes:title>

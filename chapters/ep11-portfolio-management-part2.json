@@ -1,0 +1,137 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.33,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 30.4,
+      "title": "Welcome: Where We Are"
+    },
+    {
+      "startTime": 86.53,
+      "title": "Three Things You'll Learn Today"
+    },
+    {
+      "startTime": 128.5,
+      "title": "What Makes an Alternative"
+    },
+    {
+      "startTime": 260.03,
+      "title": "Quiz Break One"
+    },
+    {
+      "startTime": 298.97,
+      "title": "The Alternatives Family"
+    },
+    {
+      "startTime": 379.13,
+      "title": "Real Assets"
+    },
+    {
+      "startTime": 461.18,
+      "title": "Structured Products"
+    },
+    {
+      "startTime": 584.16,
+      "title": "Commodities"
+    },
+    {
+      "startTime": 667.3,
+      "title": "Private Markets and Hedge Funds"
+    },
+    {
+      "startTime": 774.99,
+      "title": "Hedge Fund Strategies"
+    },
+    {
+      "startTime": 859.08,
+      "title": "Liquid Alternatives"
+    },
+    {
+      "startTime": 940.59,
+      "title": "Mini Recap One"
+    },
+    {
+      "startTime": 985.6,
+      "title": "Benefits and Risks Side by Side"
+    },
+    {
+      "startTime": 1086.67,
+      "title": "The Illiquidity Problem"
+    },
+    {
+      "startTime": 1204.79,
+      "title": "Due Diligence"
+    },
+    {
+      "startTime": 1283.3,
+      "title": "Quiz Break Two"
+    },
+    {
+      "startTime": 1327.35,
+      "title": "How Much to Own"
+    },
+    {
+      "startTime": 1476.07,
+      "title": "Two Client Examples"
+    },
+    {
+      "startTime": 1565.95,
+      "title": "Quiz Break Three"
+    },
+    {
+      "startTime": 1606.13,
+      "title": "Alternatives and Taxes"
+    },
+    {
+      "startTime": 1692.6,
+      "title": "Mini Recap Two"
+    },
+    {
+      "startTime": 1736.43,
+      "title": "ESG"
+    },
+    {
+      "startTime": 1797.46,
+      "title": "Five Ways to Invest Responsibly"
+    },
+    {
+      "startTime": 1945.08,
+      "title": "Investing for Trusts"
+    },
+    {
+      "startTime": 2078.47,
+      "title": "When a Trust Holds the Family Business"
+    },
+    {
+      "startTime": 2164.14,
+      "title": "Investing for Charities"
+    },
+    {
+      "startTime": 2296.84,
+      "title": "Quiz Break Four"
+    },
+    {
+      "startTime": 2340.21,
+      "title": "Mini Recap Three"
+    },
+    {
+      "startTime": 2383.5,
+      "title": "Exam Traps"
+    },
+    {
+      "startTime": 2450.2,
+      "title": "Case: The Montalvo Foundation"
+    },
+    {
+      "startTime": 2542.84,
+      "title": "Exam Must-Knows (with Doña Pilar)"
+    },
+    {
+      "startTime": 2655.38,
+      "title": "Next Time"
+    }
+  ]
+}
