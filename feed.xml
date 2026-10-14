@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:39:48 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:40:03 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -19,6 +19,100 @@
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 9: Tax Planning, Part 4</title>
+      <itunes:title>Episode 9: Tax Planning, Part 4</itunes:title>
+      <description>Tax Planning, Part 4 (Section II.A, 15% of the exam): options, exchanges, insurance and retirement. The last tax episode. Middle-pace driving edition with a one-minute opening recap and a 30-second preview of Portfolio Management.
+
+Covered (KS 13, 14, 17–20): NQSOs and ISOs (Grant, Exercise, Sell, Spread), holding periods, basis, the $100,000 rule, disqualifying dispositions, AMT, a worked example and exercise strategies, plus 83(b); like-kind exchanges (Real Quick, Forty-five, One-eighty) and boot; qualified small business stock (Corporate Original Small Active) with the post-July 4, 2025 tiered exclusion and $15M cap, §1045 rollovers, and the risks and benefits of each; how life insurance, MECs, annuities, disability and LTC are taxed; the three tax buckets, Roth vs. traditional, the 2026 plan limits, multiple plans, cash balance plans, solo 401(k) vs. SEP, HSAs, 529 updates, coordination strategies, distributions and inherited accounts.
+
+Also: Exam Traps, a short case ("Mateo's Startup"), and the exam must-knows with Doña Pilar. Figures are for 2026. Memory tricks are just ours. Cheat sheet: ep09-cheatsheet.pdf.
+
+All characters and firms are fictional.
+
+Chapters:
+0:00 Cold Open
+0:27 Welcome: Where We Are
+1:26 Three Things You'll Learn Today
+2:22 Option Basics
+3:27 NQSOs
+4:45 ISOs
+6:15 Qualifying or Not
+7:47 One Worked Example
+8:51 Side by Side and Strategies
+10:55 Quiz Break One
+11:37 Mini Recap One
+12:16 Like-Kind Exchanges
+14:41 Quiz Break Two
+15:21 QSBS
+17:52 Exchange or QSBS?
+19:39 Insurance and Taxes
+22:30 Mini Recap Two
+23:08 Three Tax Buckets
+24:26 Roth or Traditional
+26:03 The 2026 Limits
+28:00 Cash Balance, Solo 401k or SEP
+30:07 Quiz Break Three
+30:51 HSA and 529
+33:10 Coordinating Strategies
+35:03 Distributions
+37:13 Quiz Break Four
+37:50 Mini Recap Three
+38:31 Exam Traps
+39:38 Case: Mateo's Startup
+41:02 Exam Must-Knows (with Doña Pilar)
+43:00 Next Time</description>
+      <itunes:summary>Tax Planning, Part 4 (Section II.A, 15% of the exam): options, exchanges, insurance and retirement. The last tax episode. Middle-pace driving edition with a one-minute opening recap and a 30-second preview of Portfolio Management.
+
+Covered (KS 13, 14, 17–20): NQSOs and ISOs (Grant, Exercise, Sell, Spread), holding periods, basis, the $100,000 rule, disqualifying dispositions, AMT, a worked example and exercise strategies, plus 83(b); like-kind exchanges (Real Quick, Forty-five, One-eighty) and boot; qualified small business stock (Corporate Original Small Active) with the post-July 4, 2025 tiered exclusion and $15M cap, §1045 rollovers, and the risks and benefits of each; how life insurance, MECs, annuities, disability and LTC are taxed; the three tax buckets, Roth vs. traditional, the 2026 plan limits, multiple plans, cash balance plans, solo 401(k) vs. SEP, HSAs, 529 updates, coordination strategies, distributions and inherited accounts.
+
+Also: Exam Traps, a short case ("Mateo's Startup"), and the exam must-knows with Doña Pilar. Figures are for 2026. Memory tricks are just ours. Cheat sheet: ep09-cheatsheet.pdf.
+
+All characters and firms are fictional.
+
+Chapters:
+0:00 Cold Open
+0:27 Welcome: Where We Are
+1:26 Three Things You'll Learn Today
+2:22 Option Basics
+3:27 NQSOs
+4:45 ISOs
+6:15 Qualifying or Not
+7:47 One Worked Example
+8:51 Side by Side and Strategies
+10:55 Quiz Break One
+11:37 Mini Recap One
+12:16 Like-Kind Exchanges
+14:41 Quiz Break Two
+15:21 QSBS
+17:52 Exchange or QSBS?
+19:39 Insurance and Taxes
+22:30 Mini Recap Two
+23:08 Three Tax Buckets
+24:26 Roth or Traditional
+26:03 The 2026 Limits
+28:00 Cash Balance, Solo 401k or SEP
+30:07 Quiz Break Three
+30:51 HSA and 529
+33:10 Coordinating Strategies
+35:03 Distributions
+37:13 Quiz Break Four
+37:50 Mini Recap Three
+38:31 Exam Traps
+39:38 Case: Mateo's Startup
+41:02 Exam Must-Knows (with Doña Pilar)
+43:00 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep09-tax-planning-part4.mp3" length="42046073" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep09-tax-planning-part4</guid>
+      <pubDate>Tue, 13 Oct 2026 22:40:02 -0400</pubDate>
+      <itunes:duration>00:43:48</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep09-tax-planning-part4.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Episode 8: Tax Planning, Part 3</title>
       <itunes:title>Episode 8: Tax Planning, Part 3</itunes:title>
