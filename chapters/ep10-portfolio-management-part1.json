@@ -1,0 +1,137 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.33,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 33.1,
+      "title": "Welcome: Where We Are"
+    },
+    {
+      "startTime": 96.73,
+      "title": "Three Things You'll Learn Today"
+    },
+    {
+      "startTime": 138.61,
+      "title": "What Tax Efficiency Means"
+    },
+    {
+      "startTime": 241.1,
+      "title": "Ranking Assets"
+    },
+    {
+      "startTime": 378.04,
+      "title": "Ranking Vehicles"
+    },
+    {
+      "startTime": 470.67,
+      "title": "Ranking Accounts"
+    },
+    {
+      "startTime": 538.23,
+      "title": "Quiz Break One"
+    },
+    {
+      "startTime": 577.85,
+      "title": "Tax Drag"
+    },
+    {
+      "startTime": 670.13,
+      "title": "Two Simple Formulas"
+    },
+    {
+      "startTime": 754.99,
+      "title": "Quiz Break Two"
+    },
+    {
+      "startTime": 796.35,
+      "title": "Mini Recap One"
+    },
+    {
+      "startTime": 832.59,
+      "title": "Harvesting: The Process"
+    },
+    {
+      "startTime": 937.59,
+      "title": "Choosing What to Harvest"
+    },
+    {
+      "startTime": 1048.43,
+      "title": "Direct Indexing and Gain Harvesting"
+    },
+    {
+      "startTime": 1145.99,
+      "title": "Quiz Break Three"
+    },
+    {
+      "startTime": 1186.86,
+      "title": "Judging Managers After Tax"
+    },
+    {
+      "startTime": 1283.85,
+      "title": "The After-Tax Math"
+    },
+    {
+      "startTime": 1423.2,
+      "title": "Bond Managers: The Fine Print"
+    },
+    {
+      "startTime": 1505.75,
+      "title": "Quiz Break Four"
+    },
+    {
+      "startTime": 1543.47,
+      "title": "Mini Recap Two"
+    },
+    {
+      "startTime": 1584.05,
+      "title": "Building the Portfolio"
+    },
+    {
+      "startTime": 1681.17,
+      "title": "Implementation"
+    },
+    {
+      "startTime": 1766.2,
+      "title": "Vehicles for Wealthy Clients"
+    },
+    {
+      "startTime": 1852.92,
+      "title": "Lots, Gifts and Charity"
+    },
+    {
+      "startTime": 1943.34,
+      "title": "Asset Location"
+    },
+    {
+      "startTime": 2040.53,
+      "title": "Location: One Example"
+    },
+    {
+      "startTime": 2116.95,
+      "title": "Spending in Retirement"
+    },
+    {
+      "startTime": 2194.76,
+      "title": "Mini Recap Three"
+    },
+    {
+      "startTime": 2228.8,
+      "title": "Exam Traps"
+    },
+    {
+      "startTime": 2291.48,
+      "title": "Case: Preston's Shelf"
+    },
+    {
+      "startTime": 2394.93,
+      "title": "Exam Must-Knows (with Doña Pilar)"
+    },
+    {
+      "startTime": 2483.73,
+      "title": "Next Time"
+    }
+  ]
+}
