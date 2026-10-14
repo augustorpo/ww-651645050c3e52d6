@@ -6,7 +6,7 @@
     <atom:link href="https://augustorpo.github.io/ww-651645050c3e52d6/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:35:32 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:39:48 -0400</lastBuildDate>
     <itunes:author>The Wealth Whisperer</itunes:author>
     <itunes:summary>A private, drama-filled study companion made for Fabi on her way to the CPWA. Each episode follows the Chicago Booth CPWA course order and turns the material into cases with a recurring cast of clients, heirs, in-laws and advisors, with a pop quiz and a Director's call at the end.</itunes:summary>
     <itunes:subtitle>A private CPWA study casebook made for Fabi.</itunes:subtitle>
@@ -19,6 +19,96 @@
     <itunes:block>Yes</itunes:block>
     <googleplay:block>yes</googleplay:block>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>Episode 8: Tax Planning, Part 3</title>
+      <itunes:title>Episode 8: Tax Planning, Part 3</itunes:title>
+      <description>Tax Planning, Part 3 (Section II.A, 15% of the exam): trusts, high-net-worth issues and pass-throughs. Middle-pace driving edition. It opens with a one-minute "where we are" recap and closes with a 30-second preview of Part 4.
+
+Covered (KS 2–4, 15–16): the three trust tax regimes (grantor, non-grantor, tax-exempt CRT), compressed 2026 trust brackets, DNI, simple vs. complex trusts and the 65-day rule; grantor trusts and the IDGT; a tour of every trust type on the outline (revocable, GRAT, GRUT, GRIT, irrevocable, credit shelter, marital/QTIP, ILIT, spendthrift, self-settled, DAPT, dynasty/GST, CRT, CLT); high-net-worth tax issues (Never Ask Grandma Silly Questions); intrafamily income shifting and the kiddie tax (Grandkids Kindly Fund Every Investment); pass-through entities and how income keeps its character; the QBI deduction; the four loss gates (Big Ants Prefer Excess); passive-loss limits, the $25,000 rental allowance, carryforwards and dispositions.
+
+Also: Exam Traps, a short case ("The Montalvo Rentals"), and the exam must-knows with Doña Pilar. Figures are for tax year 2026. Memory tricks are just ours. Cheat sheet: ep08-cheatsheet.pdf.
+
+All characters and firms are fictional.
+
+Chapters:
+0:00 Cold Open
+0:27 Welcome: Where We Are
+1:32 Three Things You'll Learn Today
+2:21 Three Ways a Trust Is Taxed
+3:50 Why Trust Brackets Hurt
+5:32 Simple versus Complex Trusts
+7:04 Grantor or Not
+8:24 The Trust Tour, Part One: Grantor Trusts
+10:30 The Trust Tour, Part Two: Irrevocable Family Trusts
+12:47 The Trust Tour, Part Three: Protection and Generations
+14:53 Charitable Trusts
+16:27 Quiz Break One
+17:07 Mini Recap One
+17:50 High-Net-Worth Tax Issues
+20:40 Quiz Break Two
+21:23 Shifting Income in the Family
+26:25 Mini Recap Two
+27:12 Pass-Throughs
+29:59 Distributions and the QBI Deduction
+32:06 Quiz Break Three
+32:49 Passive Losses
+34:28 Basis: The Four Gates
+36:21 Disposition
+38:13 Quiz Break Four
+38:54 Mini Recap Three
+39:33 Exam Traps
+40:42 Case: The Montalvo Rentals
+42:06 Exam Must-Knows (with Doña Pilar)
+44:02 Next Time</description>
+      <itunes:summary>Tax Planning, Part 3 (Section II.A, 15% of the exam): trusts, high-net-worth issues and pass-throughs. Middle-pace driving edition. It opens with a one-minute "where we are" recap and closes with a 30-second preview of Part 4.
+
+Covered (KS 2–4, 15–16): the three trust tax regimes (grantor, non-grantor, tax-exempt CRT), compressed 2026 trust brackets, DNI, simple vs. complex trusts and the 65-day rule; grantor trusts and the IDGT; a tour of every trust type on the outline (revocable, GRAT, GRUT, GRIT, irrevocable, credit shelter, marital/QTIP, ILIT, spendthrift, self-settled, DAPT, dynasty/GST, CRT, CLT); high-net-worth tax issues (Never Ask Grandma Silly Questions); intrafamily income shifting and the kiddie tax (Grandkids Kindly Fund Every Investment); pass-through entities and how income keeps its character; the QBI deduction; the four loss gates (Big Ants Prefer Excess); passive-loss limits, the $25,000 rental allowance, carryforwards and dispositions.
+
+Also: Exam Traps, a short case ("The Montalvo Rentals"), and the exam must-knows with Doña Pilar. Figures are for tax year 2026. Memory tricks are just ours. Cheat sheet: ep08-cheatsheet.pdf.
+
+All characters and firms are fictional.
+
+Chapters:
+0:00 Cold Open
+0:27 Welcome: Where We Are
+1:32 Three Things You'll Learn Today
+2:21 Three Ways a Trust Is Taxed
+3:50 Why Trust Brackets Hurt
+5:32 Simple versus Complex Trusts
+7:04 Grantor or Not
+8:24 The Trust Tour, Part One: Grantor Trusts
+10:30 The Trust Tour, Part Two: Irrevocable Family Trusts
+12:47 The Trust Tour, Part Three: Protection and Generations
+14:53 Charitable Trusts
+16:27 Quiz Break One
+17:07 Mini Recap One
+17:50 High-Net-Worth Tax Issues
+20:40 Quiz Break Two
+21:23 Shifting Income in the Family
+26:25 Mini Recap Two
+27:12 Pass-Throughs
+29:59 Distributions and the QBI Deduction
+32:06 Quiz Break Three
+32:49 Passive Losses
+34:28 Basis: The Four Gates
+36:21 Disposition
+38:13 Quiz Break Four
+38:54 Mini Recap Three
+39:33 Exam Traps
+40:42 Case: The Montalvo Rentals
+42:06 Exam Must-Knows (with Doña Pilar)
+44:02 Next Time</itunes:summary>
+      <itunes:author>The Wealth Whisperer</itunes:author>
+      <enclosure url="https://augustorpo.github.io/ww-651645050c3e52d6/episodes/ep08-tax-planning-part3.mp3" length="43124407" type="audio/mpeg"/>
+      <guid isPermaLink="false">wealth-whisperer-ep08-tax-planning-part3</guid>
+      <pubDate>Tue, 13 Oct 2026 22:39:48 -0400</pubDate>
+      <itunes:duration>00:44:55</itunes:duration>
+      <itunes:image href="https://augustorpo.github.io/ww-651645050c3e52d6/cover-v1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <podcast:chapters url="https://augustorpo.github.io/ww-651645050c3e52d6/chapters/ep08-tax-planning-part3.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Episode 7: Tax Planning, Part 2</title>
       <itunes:title>Episode 7: Tax Planning, Part 2</itunes:title>
